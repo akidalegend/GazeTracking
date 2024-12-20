@@ -118,3 +118,6 @@ conceptual database normalized, actual schema unchanged; data modeling in though
 ## 2024-12-20T10:31:51
 mulled over possibilities, kept options open; decision tree growing.
 
+## 2024-12-20T14:39:43
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
