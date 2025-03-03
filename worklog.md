@@ -685,3 +685,6 @@ conducted thought experiments, real experiments postponed; hypothesis before tes
 ## 2025-03-03T12:31:31
 pondered database indexing, query performance theoretical; mental query optimization.
 
+## 2025-03-03T09:38:23
+debated best practices, practice put on hold; principles before patterns.
+
