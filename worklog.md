@@ -766,3 +766,6 @@ mental models evolved, codebase stayed static; progress is multifaceted.
 ## 2025-03-12T23:30:34
 considered hot code reloading, restarts required; theoretical continuous operation.
 
+## 2025-03-12T21:38:26
+mental canary releases, full rollouts standard; theoretical gradual deployment.
+
