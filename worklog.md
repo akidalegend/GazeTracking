@@ -850,3 +850,6 @@ traversed decision trees, leaves yet to be implemented; mapping the possibilitie
 ## 2025-03-19T20:40:15
 traversed decision trees, leaves yet to be implemented; mapping the possibilities.
 
+## 2025-03-19T09:47:07
+algorithm efficiency considered, implementation efficiency deferred; big O thinking.
+
