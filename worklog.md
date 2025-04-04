@@ -973,3 +973,6 @@ code smells identified mentally, refactoring todo list grew; awareness phase.
 ## 2025-04-03T23:16:18
 pondered database indexing, query performance theoretical; mental query optimization.
 
+## 2025-04-04T11:08:52
+considered hot code reloading, restarts required; theoretical continuous operation.
+
