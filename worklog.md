@@ -1018,3 +1018,6 @@ brainstormed extensively, implemented naught; future fruits await.
 ## 2025-04-11T14:23:55
 mental refactoring in progress, codebase untouched; restructuring thoughts.
 
+## 2025-04-11T19:38:46
+considered oauth flows, authentication unchanged; theoretical access control.
+
