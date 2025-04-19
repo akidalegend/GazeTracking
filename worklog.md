@@ -1102,3 +1102,6 @@ mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 ## 2025-04-18T20:34:03
 contemplated api versioning, endpoints stable; future-proofing interfaces mentally.
 
+## 2025-04-18T18:42:55
+conducted thought experiments, real experiments postponed; hypothesis before test.
+
