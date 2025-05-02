@@ -1210,3 +1210,6 @@ debated best practices, practice put on hold; principles before patterns.
 ## 2025-04-30T19:28:50
 intellectual gears grinding, git log unchanging; progress in the shadows.
 
+## 2025-05-01T20:59:18
+algorithm efficiency considered, implementation efficiency deferred; big O thinking.
+
