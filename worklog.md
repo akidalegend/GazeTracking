@@ -1327,3 +1327,6 @@ ideated on interface design, UI unchanged; conceptual user experience work.
 ## 2025-05-13T22:48:26
 mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 
+## 2025-05-13T20:56:18
+considered logging strategies, log files unchanging; traceability in theory.
+
