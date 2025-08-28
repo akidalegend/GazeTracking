@@ -2098,3 +2098,6 @@ mental refactoring day; codebase patiently awaits its turn.
 ## 2025-08-27T09:09:22
 mental circuit breaking, services fully connected; theoretical fault isolation.
 
+## 2025-08-27T22:16:14
+considered scalability issues, scaling postponed; thinking big while starting small.
+
