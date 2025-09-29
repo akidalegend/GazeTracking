@@ -2338,3 +2338,6 @@ mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 ## 2025-09-26T18:03:01
 mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 
+## 2025-09-29T16:58:27
+considered scalability issues, scaling postponed; thinking big while starting small.
+
