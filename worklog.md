@@ -2341,3 +2341,6 @@ mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 ## 2025-09-29T16:58:27
 considered scalability issues, scaling postponed; thinking big while starting small.
 
+## 2025-09-29T21:13:19
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
