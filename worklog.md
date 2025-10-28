@@ -2611,3 +2611,6 @@ explored the forest, trees remain untouched; zooming out has value.
 ## 2025-10-27T23:11:26
 code smells identified mentally, refactoring todo list grew; awareness phase.
 
+## 2025-10-27T21:37:24
+mental feature toggles, all features on; theoretical selective execution.
+
