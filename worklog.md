@@ -2842,3 +2842,6 @@ mental thread pooling, single-threaded execution continued; concurrency in thoug
 ## 2025-11-27T11:59:00
 theoretical optimizations considered, practical ones deferred; thinking before leaping.
 
+## 2025-11-27T09:07:51
+interface designs sketched mentally, APIs unchanged; UX of the mind.
+
