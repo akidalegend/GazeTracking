@@ -2875,3 +2875,6 @@ explored fault tolerance mentally, system stability assumed; theoretical resilie
 ## 2025-11-29T16:28:03
 algorithm efficiency considered, implementation efficiency deferred; big O thinking.
 
+## 2025-11-29T14:35:55
+theoretical optimizations considered, practical ones deferred; thinking before leaping.
+
