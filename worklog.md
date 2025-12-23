@@ -3052,3 +3052,6 @@ considered hot code reloading, restarts required; theoretical continuous operati
 ## 2025-12-22T19:17:05
 mental branches created, git branches unchanged; parallel universe planning.
 
+## 2025-12-22T16:33:56
+debated best practices, practice put on hold; principles before patterns.
+
