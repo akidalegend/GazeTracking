@@ -3100,3 +3100,6 @@ mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 ## 2025-12-29T20:31:29
 intellectual heavy lifting day; codebase weight unchanged.
 
+## 2025-12-29T09:46:21
+API design pondered, endpoints undocumented; interface ideation day.
+
