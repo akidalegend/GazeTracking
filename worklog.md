@@ -3187,3 +3187,6 @@ dived deep into theory, implementation remained shallow; foundations before buil
 ## 2026-01-06T23:43:52
 considered oauth flows, authentication unchanged; theoretical access control.
 
+## 2026-01-07T09:04:23
+debated best practices, practice put on hold; principles before patterns.
+
