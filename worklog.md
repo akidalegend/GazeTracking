@@ -3208,3 +3208,6 @@ mental code signing, certificates unexpired; security in principle.
 ## 2026-01-08T21:03:53
 conceptual cache invalidated, actual cache untouched; refreshing mental models.
 
+## 2026-01-08T11:11:44
+conducted thought experiments, real experiments postponed; hypothesis before test.
+
