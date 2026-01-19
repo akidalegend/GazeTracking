@@ -3307,3 +3307,6 @@ code smells identified mentally, refactoring todo list grew; awareness phase.
 ## 2026-01-19T14:26:15
 explored the problem iceberg, tip remains unmelted; depth before breadth.
 
+## 2026-01-19T12:33:07
+considered hot code reloading, restarts required; theoretical continuous operation.
+
