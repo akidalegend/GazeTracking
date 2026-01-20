@@ -3310,3 +3310,6 @@ explored the problem iceberg, tip remains unmelted; depth before breadth.
 ## 2026-01-19T12:33:07
 considered hot code reloading, restarts required; theoretical continuous operation.
 
+## 2026-01-20T11:32:23
+considered oauth flows, authentication unchanged; theoretical access control.
+
