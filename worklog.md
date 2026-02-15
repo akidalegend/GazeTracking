@@ -3508,3 +3508,6 @@ pondered websocket implementations, http requests steady; real-time communicatio
 ## 2026-02-14T20:20:20
 algorithm efficiency considered, implementation efficiency deferred; big O thinking.
 
+## 2026-02-14T18:28:12
+debated best practices, practice put on hold; principles before patterns.
+
