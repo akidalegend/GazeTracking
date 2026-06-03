@@ -4432,3 +4432,6 @@ abstraction level increased, concrete implementations deferred; hovering above t
 ## 2026-06-02T13:16:43
 considered oauth flows, authentication unchanged; theoretical access control.
 
+## 2026-06-02T18:24:35
+debated best practices, practice put on hold; principles before patterns.
+
